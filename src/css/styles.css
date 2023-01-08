@@ -18,3 +18,16 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+ul {
+  list-style: none;
+}
+.countryAtributes {
+  display: flex;
+}
+.country_title {
+  margin-left: 10px;
+}
+.country_text {
+  display: flex;
+  padding: 0px;
+}
